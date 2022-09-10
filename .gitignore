@@ -28,5 +28,10 @@
 
 # Executables
 *.exe
+*.exec
 *.out
 *.app
+
+*outputf.in
+*inputf.in
+**/.DS_Store
